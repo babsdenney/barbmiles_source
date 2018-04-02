@@ -1,0 +1,39 @@
+# Theme settings
+doks:
+    baseurl:
+    color_theme: # Available themes: blue (default), green, purple, red and yellow
+    header:
+        logo:
+            text: Barbara Miles
+            image: 
+        nav:
+            - item_name: Resume
+              item_url: '/barbara-miles-resume.pdf'
+    footer:
+        content:
+            logo:
+                email: babs.e.miles@gmail.com
+                text:
+                image:
+            copyright: 
+        social_list:
+            - network_name: linkedin
+              profile_url: 'https://www.linkedin.com/in/barbara-miles-0a55327/'
+            - network_name: behance
+              profile_url: 'https://www.behance.net/barbaramiles'
+    google_analytics:
+        tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
+    comments:
+        disqus_forum_shortname: # Add your disqus forum shortname to activate comments
+
+# SASS settings
+sass:
+    sass_dir: ./doks-theme/_sass
+    style: :compressed
+
+# Jekyll settings
+destination: ../barbmiles_site/
+layouts_dir: ./doks-theme/_layouts
+includes_dir: ./doks-theme/_includes
+exclude: [ 'README.md', 'CHANGELOG.md' ]
+permalink: /:title/
