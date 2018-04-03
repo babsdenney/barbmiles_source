@@ -14,8 +14,10 @@
 			<div class="row">
 				<div class="col-xs-12">
 					{% if site.doks.header.logo.text %}
-						<a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}/" class="site-header__logo">{{ site.doks.header.logo.text }} <span class="header divider">|</span>
-						<h3 class="header hero-subheader__subtitle">UX Designer</h3></a>
+<a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}/" class="site-header__logo">{{ site.doks.header.logo.text }}
+<span class=" hidden-xs header divider">|</span>
+<h3 class="header hero-subheader__subtitle hidden-xs">UX Designer</h3>
+</a>
 					{% elsif site.doks.header.logo.image %}
 						<a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}/" class="site-header__logo">
 							<img src="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}/doks-theme/assets/images/layout/logo.png">
