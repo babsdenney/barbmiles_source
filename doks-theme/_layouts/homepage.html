@@ -21,7 +21,7 @@
 								
 								{% for button in page.buttons %}
 									{% if button.external_url == true %}
-									<a href="{{ button.url }}" class="btn btn--dark btn--rounded btn--w-icon">
+									<a href="{{ button.url }}" class="btn btn--dark btn--rounded btn--w-icon" target="_blank">
 										{% if button.icon %}<i class="icon icon--{{ button.icon }}"></i>{% endif %}
 										{{ button.content }}
 									</a>

@@ -66,7 +66,7 @@ background-color: #1967c4;
 
 .site-footer__logo {
         font-size: 1.35em;
-        margin: 0;
+        margin: 0 0 15px 0;
 }
 
 .excerpt {
@@ -80,3 +80,9 @@ background-color: #1967c4;
 a {padding-bottom: 0;}
 
 .avatar {width: 85%; margin: 0 auto;}
+
+@media only screen and (max-width: 800px) {
+.nav-grid__item {
+    background-image:none !important;
+}
+}
