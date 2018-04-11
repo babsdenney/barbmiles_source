@@ -50,8 +50,8 @@ page_nav:
 <h4 style="margin-top: 0;">Tasks</h4>
 <ul>
 <li>Designing the logos and custom icons used on the baby tracking device and in the web-based application.</li>
-<li>Creating high fidelity mockups and alternative styles to wireframes.</li>
-<li>Converting high fidelity mockups to responsive HTML and CSS design using Angular Material Framework inside MEAN.io.</li>
+<li>Creating high-fidelity mockups and wireframes.</li>
+<li>Converting high-fidelity mockups to responsive HTML and CSS designs using the Angular Material Framework inside MEAN.io.</li>
 </ul>
 </div>
 <div style="clear:both;"></div>

@@ -32,16 +32,16 @@ page_nav:
 <b>Role:</b> UX Designer<br/>
 <b>Technologies:</b> Axure, Adobe Photoshop
 </p>
-<p>Outside Television is a new division of Outside Magazine focused on videos and shows about outside adventurers.</p>
+<p>Outside Television is a new division of Outside Magazine focused on videos and shows about outside adventures.</p>
 <br />
 <img src="/doks-theme/assets/images/portfolio/outsidetv-2.png" />
 <h2>Responsibilities</h2>
-<p>Worked as frontend designer to listen to business needs and create wireframes and high fidelity mockups for a mobile app and website that you could view Outside Television videos.</p>
+<p>Worked as the frontend designer and listened to the business needs of the client and create wireframes and high fidelity mockups for a mobile app and website with the main goal of getting users to watch and Outside Television videos.</p>
 <img src="/doks-theme/assets/images/portfolio/outsidetv-6.png" />
 <h4>Tasks</h4>
 <ul>
-<li>Meeting with clients to discuss their business needs</li>
-<li>Designing wireframes in Axure and high fidelity mockups in Photoshop that met the branding requirements for Outside Television.</li>
+<li>Meeting with clients to discuss their business needs.</li>
+<li>Designing wireframes in Axure and high-fidelity mockups in Photoshop that met the branding requirements for Outside Television.</li>
 <li>Creating icons and marketing material to promote the app and website.</li>
 </ul>
 <br />
