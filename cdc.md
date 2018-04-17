@@ -32,14 +32,6 @@ page_nav:
 <b>Role:</b> UX Designer, UX Researcher, and Frontend Developer<br/>
 <b>Technologies:</b> VB.net, Visual Studio, HTML, CSS, Axure, Adobe Illustrator, Adobe Photoshop, Adobe Flash 
 </p>
-<br/>
-<center>
-<img style="width:50%;"  src="/doks-theme/assets/images/portfolio/cdc1.png" />
-<br />
-<br />
-<i>logo created for Diabetes Surveillance System</i>
-</center>
-<br/>
 <p>Worked with different teams of developers, epidemiologist, and analyst to create dashboards that tracked CDC data on diabetes and STD rates from state-to-state in a user-friendly way that can be viewed and understood by the general public.</p>
 <img src="/doks-theme/assets/images/portfolio/cdc2.png" />
 <p>Every year states and local health departments gather information on the rates of STDS and chronic diseases like diabetes and that data is then submitted to the CDC for analysis. One of the roles of the CDC is to put this data out to the public to raise awareness at a local level.</p>
